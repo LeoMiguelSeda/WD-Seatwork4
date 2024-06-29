@@ -45,6 +45,9 @@
     <li>
       <a href="#resources">Resources</a>
     </li>
+    <li>
+      <a href="#deployment">Deployment Link</a>
+    </li>
   </ol>
 </details>
 
@@ -114,3 +117,6 @@ WD-ProjectName
 |-|-|-|
 | Creating Responsive CSS Cards | To have an idea to creating a features card page |https://youtu.be/9FNNkzPBFcE |
 | How to Create A Navigation Bar using HTML and CSS | For creating the Navigation Bar |https://youtu.be/-Yw9gBHE60E |
+
+## Deployment:
+https://leomiguelseda.github.io/WD-Seatwork4/
