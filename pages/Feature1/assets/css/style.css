@@ -75,13 +75,14 @@ img {
 .card {
     width: 250px;
     height: 300px;
-    outline: 3px solid #239be0;
+    outline: 3px solid  rgb(147, 60, 218);
     border-radius: 10px;
     overflow: scroll;
     /* box-shadow: red 0px 0px 10px; */
     margin: 20px;
     mouse: pointer;
     transition: width 0.5s;
+    overflow-x: hidden;
 }.card:hover {
     width: 300px;
 }
@@ -127,6 +128,7 @@ img {
     bottom: 30;
     left: 65%;
     transform: translateY(950%);
+    text-shadow: 1px 3px 3px #333;
     
     
 }
@@ -140,6 +142,7 @@ img {
     font-size: 1.5rem;
     transform: translateX(-30%);
     transform: translateY(-90%);
+    text-shadow: 1px 3px 3px #333;
 }
 
 
